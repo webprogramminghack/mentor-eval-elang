@@ -13,3 +13,7 @@ Clone the repository by visiting the following link:
 ### Optimistic UI Update
 
 Make sure you implement **optimistic updates** to provide a smooth user experience. With optimistic UI, the interface updates instantly, providing quick feedback to the user, even before the server confirms the changes.
+
+Capture Update:
+
+![alt text](image.png)
